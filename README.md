@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BLUR-DEVIL
-- 👀 I’m interested in Data structure & Algorithms, web Development and cyber security
-- 🌱 I’m currently learning web Development
-- 💞️ I’m looking to collaborate on web Development
+- 👀 I’m interested in Machine Learning, Data Science, Deep Learning, Data structure & Algorithms
+- 🌱 I’m currently learning statistical learning
+- 💞️ I’m looking to collaborate on Machine Learning 
 - 📫 you can reach me by mailing me at adityaanurag1961@gmail.com
 
 <!---
